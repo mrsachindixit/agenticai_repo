@@ -2,14 +2,6 @@ from langchain.tools import tool
 from langchain.agents import create_agent
 import requests
 
-# from langchain_aws import ChatBedrock
-
-# model = ChatBedrock(
-#     model="arn:aws:bedrock:us-east-1:898151824494:inference-profile/us.anthropic.claude-sonnet-4-5-20250929-v1:0", 
-#     temperature=0.2,
-#     provider="anthropic"
-# )
-
 from langchain_ollama import ChatOllama
 model = ChatOllama(
     model="lfm2.5-thinking:latest",  # Note: or "lfm2.5-thinking:latest" for better reasoning
