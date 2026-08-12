@@ -1,5 +1,9 @@
 ﻿# 🤖 AgenticAI — Hands-On Code Companion
 
+> **This repo has been merged into https://github.com/mrsachindixit/agentixit** — the code now
+> lives there under `code/`, alongside the written notes it goes with. This repo is archived and
+> read-only; go to **agentixit** for the current version.
+
 <p align="left">
 	<img src="https://img.shields.io/badge/Local--First-Ollama-10b981?style=for-the-badge" alt="Local First" />
 	<img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
